@@ -49,42 +49,43 @@
 ---
 
 ## 로그인 화면
-![image](https://github.com/user-attachments/assets/b70d39c6-2be4-47b5-82bb-166b8a842f34)
+![image](https://github.com/user-attachments/assets/f2106a48-2125-4d19-b1e4-d5dc4cf139e1)
 
 ---
 
 ## 회원가입 화면
-![image](https://github.com/user-attachments/assets/fcb9c4d7-848c-484c-92f2-9ab2c865d9c2)
+![image](https://github.com/user-attachments/assets/559a2fd7-e45a-48bc-b30f-435eab803378)
 
 ---
 
 ## 사업자등록증 OCR 기능
-![image](https://github.com/user-attachments/assets/f7c3fa86-8cd2-4bc0-a415-cb79064c28fd)
-
----
-
-## 모바일 QR 기능
-![image](https://github.com/user-attachments/assets/d9a3d616-d79e-4e7c-8688-ebe993b48f27)
+![image](https://github.com/user-attachments/assets/99aed73e-0c3b-44fe-935d-1b0e4b80a408)
 
 ---
 
 ## 메인화면
-![image](https://github.com/user-attachments/assets/483c48ad-dc56-4dd8-9656-79cb4e5ca08b)
+![image](https://github.com/user-attachments/assets/3d9d5504-e51f-4632-8e26-12bdac48e4d2)
 
 ---
 
 ## 메인화면 - 시각화
-![image](https://github.com/user-attachments/assets/2d4c0d2a-56b7-4be6-a44f-0966a7892f70)
+![image](https://github.com/user-attachments/assets/c0c3d773-9710-4987-b6b0-7cef10411491)
+
+---
+
+## 모바일 QR 기능
+![image](https://github.com/user-attachments/assets/86142175-aa57-45a7-9579-6e636e5ef081)
 
 ---
 
 ## 본사메인페이지
-![image](https://github.com/user-attachments/assets/d67e4b31-2d02-4590-94d3-fbab931c25ea)
+![image](https://github.com/user-attachments/assets/e155c577-c7bb-481a-b9d9-f91a34b18b7a)
 
 ---
 
 ## 본사페이지 - 시각화
-![image](https://github.com/user-attachments/assets/e1b6a551-2fd5-402a-8c6e-e7f7c361daa6)
+![image](https://github.com/user-attachments/assets/0584ae7d-f946-4c3a-82c5-b6d2a248886a)
+
 
 
 
